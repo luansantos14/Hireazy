@@ -1,8 +1,0 @@
-{
-  "routes": [
-    { "path": "/", "title": "Hireazy" },
-    { "path": "/login.php", "title": "Entrar" },
-    { "path": "/register.php", "title": "Criar conta" },
-    { "path": "/dashboard.php", "title": "Meu painel" }
-  ]
-}
